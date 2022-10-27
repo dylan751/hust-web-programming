@@ -1,3 +1,5 @@
+<!-- Basic HTML tags -->
+
 <html>
 
 <body>
