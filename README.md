@@ -48,11 +48,13 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
 This is a repository of Hanoi University of Science and Technology (HUST)'s `Web Programming` Subject. It contains the source code for each week of learning.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
+
 - [![PHP][php]][php-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,34 +63,34 @@ This is a repository of Hanoi University of Science and Technology (HUST)'s `Web
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+- Documents: https://drive.google.com/drive/folders/1qd0-dUhKNYQreaAn_sbrs2LDOn4TV6J-
 
-- npm
+- Download XAMPP
   ```sh
-  npm install npm@latest -g
+  https://www.apachefriends.org/
   ```
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
+
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/muoi07052001/hust-web-programming.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+
+2. Run XAMPP
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
+   Open XAMPP -> Run the Server
+   ```
+3. Open `localhost`
+   ```
+   Go to Web Browser -> Type in `http://localhost`
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,9 +99,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The repository will be divided into each week of learning. When you start the `localhost` server, it will open a diretory of weeks, which contains all the output of the relatable code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,15 +107,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Add Documentation of each lession (each .php files)
 - [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+  - [ ] Japanese
+  - [ ] English
+  - [ ] Vietnamese
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +136,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Havent't has any License yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,9 +144,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Nguyen Hai Duong - [@your_twitter](https://twitter.com/your_username) - muoi07052001@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/muoi07052001/hust-web-programming](https://github.com/muoi07052001/hust-web-programming)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,16 +154,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 - [Malven's Grid Cheatsheet](https://grid.malven.co/)
 - [Img Shields](https://shields.io)
 - [GitHub Pages](https://pages.github.com)
 - [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
